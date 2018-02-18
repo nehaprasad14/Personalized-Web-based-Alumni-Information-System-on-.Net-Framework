@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="index.aspx" title="Home"  description=""> 
+         <siteMapNode url="stud_data.aspx" title="Alumni Page"  description="" >
+                 <siteMapNode url="Samparka.aspx" title="Samparka"  description="" >
+                      <siteMapNode url="Photo_gallary.aspx" title="Photo Gallary"  description="" />
+                 </siteMapNode>
+                 <siteMapNode url="AlumniDirectory.aspx" title="Alumni Directory"  description="" />
+                 <siteMapNode url="SendEmail.aspx" title="Send E-mail"  description="" />
+                 <siteMapNode url="viewprofile.aspx" title="Alumni Profile "  description="" />
+        </siteMapNode>
+      <siteMapNode url="ContactUs.aspx" title="Contact Us"  description="" />
+      <siteMapNode url="sitemap.aspx" title="Site Map"  description="" />
+    </siteMapNode>
+</siteMap>
